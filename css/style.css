@@ -42,3 +42,9 @@ body{
     font-size: 40px;
     margin: 0em auto 0em;
 }
+
+.separador{
+    margin: auto;
+    background-color: #212426;
+    padding: 1em;
+}
